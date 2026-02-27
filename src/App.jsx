@@ -3,7 +3,7 @@ import { AuthProvider, useAuth } from './context/AuthContext'
 
 import DashboardPage from './pages/DashboardPage'
 import PrivateRoute from './routes/PrivateRoutes'
-import LoginPage from './pages/loginPage'
+import LoginPage from './pages/LoginPage'
 
 
 
