@@ -108,7 +108,7 @@ function SidebarContent({ onClose }) {
         <p className="text-[10px] sm:text-xs text-green-300 font-medium mb-0.5 sm:mb-1">Download our</p>
         <p className="font-bold text-sm sm:text-base leading-tight mb-1">Mobile App</p>
         <p className="text-[10px] sm:text-[11px] text-green-300/80 mb-2 sm:mb-3">Get easy in another way</p>
-        <button className="w-full bg-[#1a5c38] hover:bg-[#145030] text-white text-xs sm:text-sm font-semibold py-2 rounded-xl transition-colors">
+        <button className="w-full bg-[#145030] hover:bg-[#0e3d24] text-white text-xs sm:text-sm font-semibold py-2 rounded-xl transition-colors">
           Download
         </button>
       </div>
