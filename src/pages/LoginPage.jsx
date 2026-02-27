@@ -153,7 +153,7 @@ export default function LoginPage() {
               <label className="block text-sm font-medium text-gray-700 mb-1.5">
                 Email address
               </label>
-              <div className={`relative flex items-center rounded-xl border-2 transition-all duration-200 bg-surface-50 ${
+              <div className={`relative flex items-center rounded-xl border-2 transition-all duration-200 bg-slate-50 ${
                 focusField === 'email'
                   ? 'border-brand-500 shadow-glow-sm bg-white'
                   : 'border-gray-200 hover:border-gray-300'
@@ -180,7 +180,7 @@ export default function LoginPage() {
                   Forgot password?
                 </button>
               </div>
-              <div className={`relative flex items-center rounded-xl border-2 transition-all duration-200 bg-surface-50 ${
+              <div className={`relative flex items-center rounded-xl border-2 transition-all duration-200 bg-slate-50 ${
                 focusField === 'password'
                   ? 'border-brand-500 shadow-glow-sm bg-white'
                   : 'border-gray-200 hover:border-gray-300'
